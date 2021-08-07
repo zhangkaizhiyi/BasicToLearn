@@ -58,6 +58,7 @@
 		4B27464626BEBDC8004B23B3 /* BasicToLearn */ = {
 			isa = PBXGroup;
 			children = (
+				4B27465526BEBDCA004B23B3 /* Info.plist */,
 				4B27464726BEBDC8004B23B3 /* BasicToLearnApp.swift */,
 				4B27465D26BEBF77004B23B3 /* View */,
 				4B27465F26BEBF8F004B23B3 /* support file */,
@@ -97,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				4B27464B26BEBDCA004B23B3 /* Assets.xcassets */,
-				4B27465526BEBDCA004B23B3 /* Info.plist */,
 			);
 			path = "support file";
 			sourceTree = "<group>";
